@@ -33,13 +33,12 @@ else {
       carField.classList.remove("input-invalid")
       carField.classList.add("input-valid")
     }
+    
     //(document.querySelector("input-field")
     // if (document.getElementById('name')value)
     //alert('field is required');
 
     //alert("field is required");
-
-
 
     console.log(carYear.value);
 })
